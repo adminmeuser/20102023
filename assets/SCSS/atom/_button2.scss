@@ -1,0 +1,39 @@
+.be-container1-button {
+    padding: 10px;
+    margin: 40px;
+    width: 100px;
+    margin-left: 60px;
+    background-color: darkslategray;
+    color: white;
+    cursor: pointer; 
+  
+  &:hover {
+    background-color:rgb(22, 77, 133);
+    color: white; }
+  }
+
+  .be-container5-mainblock__card__button {
+    background-color: white;
+    color: blue;
+    border: 0px;
+    cursor: pointer;
+
+}
+.be-container5-mainblock__card__button:hover {
+    background-color:rgb(23, 77, 131) ;
+    color: white;
+}
+
+.be-container8-button {
+    background-color: white;
+    width: 100px;
+    height: 30px;
+    margin: 30px;
+    margin-left: 345px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+.be-container8-button:hover {
+    background-color: rgb(23, 77, 131);
+    color: white;
+}
